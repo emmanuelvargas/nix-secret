@@ -28,5 +28,10 @@ let
   ];
   in
 {
-  "./xxx.age".publicKeys = users ++ systems;
+  "nix-access-tokens.age".publicKeys = users ++ systems;
+  "ryan4yin-gpg-subkeys.priv.age".publicKeys = users ++ systems;
+  "wg-business.conf.age".publicKeys = users ++ systems;
+  "smb-credentials.age".publicKeys = users ++ systems;
+  "ssh-key-romantic.age".publicKeys = users ++ systems;
+  "rclone.conf.age".publicKeys = users ++ systems;
 }
