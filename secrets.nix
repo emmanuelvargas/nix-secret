@@ -34,4 +34,6 @@ let
   "smb-credentials.age".publicKeys = users ++ systems;
   "ssh-key-romantic.age".publicKeys = users ++ systems;
   "rclone.conf.age".publicKeys = users ++ systems;
+  "ryan4yin-gpg-keys-2014-01-27.pub.age".publicKeys = users ++ systems;
+
 }
