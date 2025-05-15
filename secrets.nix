@@ -35,5 +35,6 @@ let
   "public/manu-gpg-keys-2025-01-27.pub.age".publicKeys = users ++ systems;
   "manu-gpg-keys-2025-01-27.pub.age.age".publicKeys = users ++ systems;
   "manu-gpg-subkeys.priv.age".publicKeys = users ++ systems;
+  "manu-gpg-subkeys-2025-04-27.priv.age.age".publicKeys = users ++ systems;
 
 }
