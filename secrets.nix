@@ -32,5 +32,8 @@ let
   "alias-for-work.nushell.age".publicKeys = users ++ systems;
   "alias-for-work.bash.age".publicKeys = users ++ systems;
   "ryan4yin-gpg-subkeys-2024-01-27.priv.age.age".publicKeys = users ++ systems;
+  "manu-gpg-keys-2025-01-27.pub.age".publicKeys = users ++ systems;
+  "manu-gpg-keys-2025-01-27.pub.age.age".publicKeys = users ++ systems;
+  "manu-gpg-subkeys.priv.age".publicKeys = users ++ systems;
 
 }
